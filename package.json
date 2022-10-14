@@ -1,10 +1,10 @@
 {
   "name": "contactbook-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Duy Nguyen",
   "license": "ISC",
@@ -14,5 +14,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duyck21v7k004/Du-an.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Duyck21v7k004/Du-an/issues"
+  },
+  "homepage": "https://github.com/Duyck21v7k004/Du-an#readme",
+  "description": ""
 }
